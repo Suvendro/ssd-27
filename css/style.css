@@ -124,6 +124,11 @@ ul {
     text-align: center;
 }
 
+.banner-section i:hover {
+    color: #48baff;
+    transition: 0.4s;
+}
+
 /*...................................typo-section.......................*/
 
 .typo-section {
