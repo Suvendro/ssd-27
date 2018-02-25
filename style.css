@@ -1,0 +1,339 @@
+.Footer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 2306px;
+    z-index: 36;
+}
+
+.Contact_Form {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 2306px;
+    z-index: 35;
+}
+
+.About_Us {
+    font-size: 18px;
+    font-family: "RobotoCondensed";
+    color: rgb(108, 108, 108);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.222;
+    text-align: left;
+    position: absolute;
+    left: 1121.937px;
+    top: 1892.002px;
+    z-index: 34;
+}
+
+.Vestibulum_id_ligula_porta_felis_euismod_semper {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: rgb(202, 202, 202);
+    line-height: 1.571;
+    text-align: left;
+    position: absolute;
+    left: 1123.901px;
+    top: 1955.25px;
+    width: 247px;
+    height: 169px;
+    z-index: 33;
+}
+
+.Popular_Posts {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 2306px;
+    z-index: 31;
+}
+
+.Popular_Posts {
+    font-size: 18px;
+    font-family: "RobotoCondensed";
+    color: rgb(108, 108, 108);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.222;
+    text-align: left;
+    position: absolute;
+    left: 819.844px;
+    top: 1893.002px;
+    z-index: 30;
+}
+
+._14_Nov__2012_ {
+    font-size: 12px;
+    font-family: "RobotoSlab";
+    color: rgb(202, 202, 202);
+    line-height: 2.083;
+    text-align: left;
+    position: absolute;
+    left: 818.521px;
+    top: 1999.494px;
+    z-index: 29;
+}
+
+.Vivamus_sagittis_lacus_vel_augue_laoreet_rutrum {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: rgb(202, 202, 202);
+    line-height: 1.571;
+    text-align: left;
+    position: absolute;
+    left: 819.901px;
+    top: 1955.25px;
+    width: 206px;
+    height: 34px;
+    z-index: 28;
+}
+
+._22_May__2012_ {
+    font-size: 12px;
+    font-family: "RobotoSlab";
+    color: rgb(202, 202, 202);
+    line-height: 2.083;
+    text-align: left;
+    position: absolute;
+    left: 819.667px;
+    top: 2064.494px;
+    z-index: 27;
+}
+
+.Scelerisque_nisl_consectetur_et_ {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: rgb(202, 202, 202);
+    line-height: 1.571;
+    text-align: left;
+    position: absolute;
+    left: 819.134px;
+    top: 2042.25px;
+    width: 197px;
+    height: 15px;
+    z-index: 26;
+}
+
+._15_July__2012_ {
+    font-size: 12px;
+    font-family: "RobotoSlab";
+    color: rgb(202, 202, 202);
+    line-height: 2.083;
+    text-align: left;
+    position: absolute;
+    left: 818.521px;
+    top: 2149.396px;
+    z-index: 25;
+}
+
+.Pellentesque_ornare_sem_lacinia_quam_venenatis_ {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: rgb(202, 202, 202);
+    line-height: 1.571;
+    text-align: left;
+    position: absolute;
+    left: 818.937px;
+    top: 2106.25px;
+    width: 201px;
+    height: 37px;
+    z-index: 24;
+}
+
+.Twitter {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 2306px;
+    z-index: 22;
+}
+
+.Layer_17_copy_2 {
+    background-image: url("Layer 17 copy 2.png");
+    position: absolute;
+    left: 516px;
+    top: 2104px;
+    width: 13px;
+    height: 10px;
+    z-index: 21;
+}
+
+.Layer_17_copy {
+    background-image: url("Layer 17 copy.png");
+    position: absolute;
+    left: 516px;
+    top: 2032px;
+    width: 13px;
+    height: 10px;
+    z-index: 20;
+}
+
+.Layer_15 {
+    background-image: url("Layer 15.png");
+    position: absolute;
+    left: 516px;
+    top: 1936px;
+    width: 13px;
+    height: 10px;
+    z-index: 19;
+}
+
+.Aenean_lacinia_bibendum_nulla_sed_leo_posuere_e {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: rgb(202, 202, 202);
+    line-height: 1.714;
+    text-align: left;
+    position: absolute;
+    left: 540.937px;
+    top: 1957.25px;
+    width: 222px;
+    height: 207px;
+    z-index: 18;
+}
+
+.Twitter {
+    font-size: 18px;
+    font-family: "RobotoCondensed";
+    color: rgb(108, 108, 108);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.222;
+    text-align: left;
+    position: absolute;
+    left: 518.517px;
+    top: 1892.502px;
+    z-index: 17;
+}
+
+.Get_in_Touch {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 2306px;
+    z-index: 15;
+}
+
+.Fill {
+    background-color: rgb(168, 149, 116);
+    position: absolute;
+    left: 215px;
+    top: 2032px;
+    width: 9px;
+    height: 13px;
+    z-index: 14;
+}
+
+.Message_small {
+    background-color: rgb(168, 149, 116);
+    position: absolute;
+    left: 215px;
+    top: 2107px;
+    width: 12px;
+    height: 8px;
+    z-index: 13;
+}
+
+.Phone {
+    background-color: rgb(168, 149, 116);
+    position: absolute;
+    left: 215px;
+    top: 2081px;
+    width: 11px;
+    height: 11px;
+    z-index: 12;
+}
+
+.Moonshine_Street_No:_14_05__Light_City__Jupiter {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: rgb(202, 202, 202);
+    line-height: 1.714;
+    text-align: left;
+    position: absolute;
+    left: 238.134px;
+    top: 2053.25px;
+    width: 177px;
+    height: 87px;
+    z-index: 11;
+}
+
+.Fusce_dapibus__tellus_commodo__tortor_mauris_co {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: rgb(202, 202, 202);
+    line-height: 1.714;
+    text-align: left;
+    position: absolute;
+    left: 213.994px;
+    top: 1957.25px;
+    width: 255px;
+    height: 63px;
+    z-index: 10;
+}
+
+.Get_In_Touch {
+    font-size: 18px;
+    font-family: "RobotoCondensed";
+    color: rgb(108, 108, 108);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.222;
+    text-align: left;
+    position: absolute;
+    left: 214.844px;
+    top: 1893.002px;
+    z-index: 9;
+}
+
+.Copyright {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 2306px;
+    z-index: 7;
+}
+
+.©_2013_Marble__All_rights_reserved__Theme_by_el {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: rgb(202, 202, 202);
+    line-height: 1.571;
+    text-align: left;
+    position: absolute;
+    left: 214.937px;
+    top: 2264.25px;
+    width: 331px;
+    height: 15px;
+    z-index: 6;
+}
+
+.Footer_Line {
+    background-color: rgb(255, 255, 255);
+    opacity: 0.11;
+    position: absolute;
+    left: 215px;
+    top: 2192px;
+    width: 1170px;
+    height: 2px;
+    z-index: 4;
+}
+
+.Footer_Bg {
+    background-color: rgb(229, 229, 229);
+    box-shadow: inset 0px 9px 0px 0px rgba(0, 0, 0, 0.22);
+    position: absolute;
+    left: 0px;
+    top: 1847px;
+    width: 1600px;
+    height: 459px;
+    z-index: 3;
+}

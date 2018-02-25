@@ -1,0 +1,309 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f6f9f9;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}
+
+p {
+    font-size: 15px;
+    color: #999999;
+    text-align: center;
+}
+
+li,
+h1,
+h2,
+h3,
+h4 {
+    color: #2d3950;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.header-section {
+    background-color: #f6f9f9;
+}
+
+.logo {
+    text-align: left;
+    display: inline-block;
+    padding-left: 25px;
+}
+
+.banner-section {
+    background: url(../img/banner.png);
+    padding-top: 215px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 180px;
+}
+
+.banner-section h1 {
+    color: #fff;
+    font-size: 120px;
+    margin: 0px 0px 30px 0px;
+}
+
+.banner-section .br {
+    width: 600px;
+    height: 2px;
+    border: 1px solid #48baff;
+    margin: 0 auto;
+}
+
+.banner-section p {
+    color: #fff;
+    font-size: 20px;
+    margin: 40px 0px 0px 0px;
+}
+
+.banner-section a {
+    color: #fff;
+    border: 2px solid #48baff;
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin-top: 65px;
+    font-size: 18px;
+}
+
+.banner-section a:hover {
+    color: #fff;
+    background: #48baff;
+    transition: 0.4s;
+}
+
+.banner-2 {
+    text-align: center;
+    padding-bottom: 90px;
+    margin: 0 auto;
+}
+
+.banner-section i {
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+}
+
+.typo-section {
+    margin-top: 80px;
+    padding-bottom: 115px;
+}
+
+.typo-sectionn h2 {
+    margin-bottom: 35px;
+    font-size: 40px;
+}
+
+.typo-section p {
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.feature-section {
+    padding: 65px 0px;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.flot {
+    width: 33.3333%;
+    float: left;
+    padding: 15px;
+}
+
+.flot h3 {
+    font-size: 22px;
+    margin: 25px 0px;
+}
+
+.flot p {
+    line-height: 25px;
+}
+
+.flot img:hover {}
+
+.portfolio-section {}
+
+.content {
+    padding: 80px 0px;
+}
+
+.content h2 {
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.content p {}
+
+.portfolio {
+    padding-bottom: 115px;
+}
+
+.img {
+    width: 100%;
+    display: inline-block;
+}
+
+.stay-section {
+    background: url(../img/banner-2.png);
+    padding: 75px 0px 110px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tex {}
+
+.from {
+    text-align: center;
+    position: relative;
+    padding-top: 50px;
+}
+
+.stay-section h4 {
+    color: #fff;
+    font-size: 40px;
+    padding-bottom: 20px;
+    margin: 0px;
+}
+
+.stay-section p {
+    margin: 0px;
+}
+
+.stay-section form {
+    font-size: 15px;
+    color: #fff;
+}
+
+.stay-section input {
+    border-radius: 5px;
+    border: 1px solid #999999;
+}
+
+.div {}
+
+.div-name {}
+
+.div-massage {}
+
+.div-subscribe {
+    text-align: left;
+    margin-left: 24%;
+    position: absolute;
+    bottom: 15px;
+}
+
+.subscribe {}
+
+.send {
+    margin-right: 25%;
+}
+
+.a {
+    text-align: right;
+}
+
+.email {
+    height: 60px;
+    width: 550px;
+    padding: 10px;
+    margin: 10px 0px;
+    background: transparent;
+}
+
+.massage {
+    height: 160px;
+    width: 550px;
+    padding: 10px;
+    margin: 10px 0px;
+    font-size: 15px;
+    background: transparent;
+    border-radius: 5px;
+    border: 1px solid #999999;
+}
+
+.subscribe {}
+
+.stay-section a {
+    color: #fff;
+    border: 2px solid #48baff;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-size: 18px;
+}
+
+.stay-section a:hover {
+    color: #fff;
+    background: #48baff;
+    transition: 0.4s;
+}
+
+.footer-section {}
+
+.footer {
+    width: 50%;
+    float: left;
+    margin: 25px 0px;
+}
+
+.Copyritht {
+    width: 50%;
+    float: right;
+    text-align: right;
+    margin: 25px 0px;
+}
+
+.footer-section p {
+    text-align: left;
+    background-color: #fff;
+}
+
+.footer-section a {
+    color: #fff;
+    background: #48baff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.footer-section a:hover {
+    color: #48baff;
+    background: transparent;
+    transition: 0.4s;
+}
