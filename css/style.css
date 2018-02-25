@@ -182,7 +182,8 @@ ul {
 
 .flot-a{
 
-display: block;
+    display: block;
+    padding-top: 20px;
 }
 
 /*....................................portfolio-section...............................*/
